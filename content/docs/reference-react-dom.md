@@ -56,7 +56,7 @@ createPortal(child, container)
 
 Creates a portal. Portals provide a way to [render children into a DOM node that exists outside the hierarchy of the DOM component](/docs/portals.html).
 
-### `flushSync()` {#flushsync}
+### `flushSync()` {#flushsync}.
 
 ```javascript
 flushSync(callback)
